@@ -937,3 +937,9 @@ Mar-12 09:24:59.373 [Task monitor] DEBUG nextflow.processor.TaskProcessor - Task
 Mar-12 09:26:05.890 [Task monitor] DEBUG nextflow.processor.TaskProcessor - Task completed > TaskHandler[id: 3; name: SPADES (S_01); status: COMPLETED; exit: 0]
 Mar-12 09:28:06.882 [Task monitor] DEBUG nextflow.processor.TaskProcessor - Task completed > TaskHandler[id: 35; name: SPADES (S_07); status: COMPLETED; exit: 0]
 Mar-12 09:28:06.500 [main] INFO  nextflow.Session - Execution complete -- Goodbye
+-with-report
+-with-timeline
+-with-dag
+-with-trace
+--runDirectory
+--outDir
